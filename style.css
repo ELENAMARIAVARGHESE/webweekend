@@ -1,0 +1,32 @@
+h2 {
+  color: rgb(85, 10, 10);
+  text-align: center;
+}
+body {
+  background-image: url(https://static.vecteezy.com/system/resources/thumbnails/000/681/801/small/wooden-texture-light-white-color-background.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+.tablestyling1 {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 700;
+    padding-left:5% ;
+    padding-bottom:5% ;
+    padding-right: 5%;
+    padding-top:5% ;
+    margin-top: 5%;
+    margin-right: 15%;
+    margin-left: 10%;
+    margin-bottom: 35%;
+    width:70%;
+    
+}
+table,th,td{
+    border:1px solid rgb(8, 8, 78);
+    justify-content: space-evenly;
+    border-radius: 10px;
+
+}
+
+
